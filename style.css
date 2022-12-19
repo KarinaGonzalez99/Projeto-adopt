@@ -171,3 +171,19 @@ nav .logo {
 .nenem {
     background-color: rgba(11, 115, 141, 0.466);
 }
+
+.linkedin {
+    top: 10px
+}
+
+.git {
+    top: 70px;
+    left: 22px;
+}
+
+.git, .linkedin {
+    position: fixed;
+    margin-top: 70px;
+    left: 10px;
+    width: 50px;
+}
